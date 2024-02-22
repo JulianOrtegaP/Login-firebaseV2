@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652155425723",
+    "project_id": "upb-kotlin-firebase-a0c88",
+    "storage_bucket": "upb-kotlin-firebase-a0c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652155425723:android:ae11356924f1ad84026a9e",
+        "android_client_info": {
+          "package_name": "co.edu.upb.ejercicios.login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrYmuuZNqsAdZs8OBnAEtMbcUgEWlKy80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
